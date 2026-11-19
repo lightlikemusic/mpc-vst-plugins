@@ -1,0 +1,5 @@
+{ "id": "binaural-echo", "name": "Binaural Echo", "author": "Lightlike", "repo": "lightlikemusic/binaural-echo",
+  "kind": "effect", "style": "mixing", "tags": ["binaural", "spatial", "panner", "headphones", "ambisonics", "delay", "echo", "tempo-sync"],
+  "license": "MIT",
+  "screenshot": "https://raw.githubusercontent.com/lightlikemusic/binaural-echo/v1.0.0/docs/screenshot.png",
+  "summary": "A 3D headphone panner. Place any track around your head with Q-Links for azimuth, elevation and distance, or let it orbit, swing or fly by on its own, free or tempo-synced. Echoes travel round the head as they repeat. Head-model, ambisonic and lightweight modes, with air absorption and a small room." }
